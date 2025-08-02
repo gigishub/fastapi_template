@@ -1,0 +1,2 @@
+user_id,username,email,password,session_key,last_login,last_logout
+20a5acbd-d8a9-48f3-a571-fcd967ed227c,testuser,test@example.com,$2b$12$FfyYbLZkP.vhyPX.N48kz.wIJRPQQckh0W9/lPDbDcDX0882e8ksu,,,
